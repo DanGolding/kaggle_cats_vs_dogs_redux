@@ -14,4 +14,6 @@ Then put the three downloaded files in a folder called `data/` and unzip the dat
     unzip train.zip
     unzip test.zip
 
+Move the `test` data into a subfolder called `data/test/test`, i.e. create one extra subfolder inside `data/test`.
+
 The code will then structure the data files appropriately from there.
